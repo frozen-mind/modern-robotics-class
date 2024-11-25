@@ -1,0 +1,1 @@
+# mujoco tutorial script
